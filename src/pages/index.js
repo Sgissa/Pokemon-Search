@@ -17,7 +17,7 @@ export default function Home(){
       <Grid.Row className={styles.content} columns='2'>
         <Grid.Column width='8'>
         <Card fluid>
-    <Image src='/poke-company.jpeg' wrapped ui={false} />
+    <Image src='/poke-company.jpg' wrapped ui={false} alt="pokemon company"/>
     <Card.Content>
       <Card.Header>Pokemon</Card.Header>
       <Card.Description>

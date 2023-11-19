@@ -52,10 +52,10 @@ export default function PokemonName(){
                 pokemonInfo.id 
                 //then do this; ture
                 ? (  <>
-                    <Image className={styles.pic} src={pokemonInfo.sprites.front_default}></Image>
+                    <Image className={styles.pic} src={pokemonInfo.sprites.front_default} alt="Description of the image"></Image>
                     <ButtonExampleLabeledBasic/>
                     <h2>Shiny: {router.query.name}</h2>
-                    <Image className={styles.pic} src={pokemonInfo.sprites.front_shiny}></Image>
+                    <Image className={styles.pic} src={pokemonInfo.sprites.front_shiny} alt="Description of the image"></Image>
                 </>
                 //else do this; false
                ) : ( 
