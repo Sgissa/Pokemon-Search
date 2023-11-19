@@ -21,7 +21,7 @@ export default function Home(){
     <Card.Content>
       <Card.Header>Pokemon</Card.Header>
       <Card.Description>
-      The Pokémon Company (株式会社ポケモン, Kabushiki Gaisha Pokemon) (TPC) is a Japanese company responsible for brand management, production, publishing, marketing, and licensing of the Pokémon franchise, which consists of video game software, a trading card game, anime television series, films, manga, home entertainment products, merchandise, and other ventures."
+      "The Pokémon Company (株式会社ポケモン, Kabushiki Gaisha Pokemon) (TPC) is a Japanese company responsible for brand management, production, publishing, marketing, and licensing of the Pokémon franchise, which consists of video game software, a trading card game, anime television series, films, manga, home entertainment products, merchandise, and other ventures."
       </Card.Description>
     </Card.Content>
     </Card>
